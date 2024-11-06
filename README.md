@@ -1,5 +1,7 @@
 ## Tools
 
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
 ![LaTeX](https://img.shields.io/badge/LaTeX-black?style=for-the-badge&logo=latex&logoColor=white)
 
 ## Project
