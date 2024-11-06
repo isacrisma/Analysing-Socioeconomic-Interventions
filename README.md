@@ -1,6 +1,6 @@
 ## Tools
 
-
+![LaTeX](https://img.shields.io/badge/LaTeX-black?style=for-the-badge&logo=latex&logoColor=white)
 
 ## Project
 
